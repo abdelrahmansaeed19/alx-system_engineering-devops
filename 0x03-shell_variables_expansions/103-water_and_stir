@@ -1,0 +1,2 @@
+#!/bin/bash
+decimal_sum=$(( 5#$WATER + 4#$STIR )) printf "%o\n" $decimal_sum
